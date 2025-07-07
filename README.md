@@ -1,6 +1,6 @@
 ## About Me
 
-I’m a third-year B.Tech (Hons.) student in Computer Science and Engineering (Data Science) at MIT Bengaluru.
+I’m a third-year B.Tech (Hons.) student in Computer Science and Engineering (Data Science) at Manipal Institute of Technology, Bengaluru.
 
 My interests lie in building AI-powered systems that solve real-world problems. I’ve worked on projects involving deep learning, computer vision, and web-based interfaces for use cases such as plant disease classification, wound monitoring, and thermal object detection.
 
