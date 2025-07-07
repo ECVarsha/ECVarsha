@@ -18,6 +18,10 @@ I enjoy connecting practical needs with scalable machine learning models, and Iâ
 - **Currently Exploring:** Operating Systems, Computer Networks, LLMs
 
 ---
+## Currently diving deeper into:
+- Operating Systems & Computer Networks
+- LLMs and multimodal learning
+- Building cleaner codebases and documentation
 
 ## Projects
 
@@ -41,5 +45,6 @@ I enjoy connecting practical needs with scalable machine learning models, and Iâ
 
 ---
 
-*Always open to learning, collaboration, and building impactful technology.*
+*Always open to learning, collaboration, discussions,learning something new and building impactful technology.*
 
+<sub>This README was handcrafted by Varsha with love for code and curiosity.</sub>
